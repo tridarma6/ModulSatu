@@ -1,0 +1,1 @@
+float rata_rata (float *input_nilai, int index);
